@@ -26,7 +26,7 @@ body {
 </head>
 <body>
 <div class="header">
-  <h1>Simple webpage layout is easy tió learn</h1>
+  <h1>Simple webpage layout is easy to learn</h1>
 </div>
   <div>
      <ul>
