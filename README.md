@@ -1,2 +1,8 @@
 # hello-world
-This repository is for practicing the GitHub Flow. 
+Hei,
+Olen opiskelija.
+Harjoittelen koodaamisesta.
+Ison tulen ohjelmoinnin kehittäjä.
+Ideoita voimme vapaehtoisesti jakaa ja keskustella.
+
+T. Malloy Nyakwama
